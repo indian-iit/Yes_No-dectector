@@ -4,7 +4,7 @@
       word may be "yes" or "no".
 Output:Programe will predict the the word present in the text file and print it.
 
-Follow the below steps to run the project:
+ Follow the below steps to run the project:
 step 1:Download the zip file and extract it.
 step 2:Open Microsoft visual studio.
 step 3:Search for the folder which is been extracted from the downloaded zip.
