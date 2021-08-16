@@ -33,6 +33,6 @@ Marking Starting and Ending of word:
 
 Final Decision:
 After marking the start and end of the word, if more than  30% of the word contains high zcr then we say it is "YES" beacuse "Yes" has is ending with fricative sound.
-Frecative sounds imply  high ZCR. If ZCR is low it is predicted as "No".
+Frecative sounds imply  high ZCR.If ZCR is low it is predicted as "No".
 
  
